@@ -1,2 +1,2 @@
 # create_proceedings_book
-This script is for generating proceedings book for a symposium
+This script is used to generate proceedings book for a symposium
